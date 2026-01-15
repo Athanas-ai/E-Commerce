@@ -18,7 +18,8 @@ UPLOAD_FOLDER = 'uploads'
 MAX_CONTENT_LENGTH = 16 * 1024 * 1024  # 16MB max upload
 
 # WhatsApp
-WHATSAPP_NUMBER = os.getenv('WHATSAPP_NUMBER', '8132981738')  # Replace with actual number
+WHATSAPP_NUMBER = os.getenv('WHATSAPP_NUMBER', '9863824320')  # Replace with actual number
 
 # Admin Settings
-ADMIN_USERNAME = os.getenv('ADMIN_USERNAME', 'admin')
+ADMIN_USERNAME = os.getenv('ADMIN_USERNAME', 'Nakha')
+
